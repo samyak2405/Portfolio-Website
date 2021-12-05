@@ -389,35 +389,3 @@ header .navbar ul li a:hover {
 .Contact .row .info h3 span {
   text-transform: capitalize;
 }
-
-/* media queries */
-
-@media (max-width: 1200px) {
-  html {
-    font-size: 55%;
-  }
-}
-
-@media (max-width: 991px) {
-  header {
-    left: -120%;
-  }
-  #menu {
-    display: block;
-  }
-  header.toggle {
-    left: 0%;
-  }
-}
-
-@media (max-width: 768px) {
-  html {
-    font-size: 50%;
-  }
-}
-
-@media (max-width: 400px) {
-  header {
-    left: 100vw;
-  }
-}
