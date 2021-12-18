@@ -21,12 +21,6 @@ Open it in and IDE (Prefered VS Code)
 Run the index.html file
 
 
-## Running Online
-
-To run Directly, Open the Link
-https://samyak2405.github.io/Portfolio-Website/
-
-
 
 
 
